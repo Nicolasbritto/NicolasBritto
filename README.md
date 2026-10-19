@@ -40,14 +40,25 @@ Olá me chamo Nicolas tem 17 anos e sou de são paulo, atualmente sou estudante 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDb" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -78,5 +89,6 @@ Olá me chamo Nicolas tem 17 anos e sou de são paulo, atualmente sou estudante 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBritto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+
 </p>
 
